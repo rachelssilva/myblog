@@ -1,0 +1,20 @@
+---
+title: "Raquel Silva"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+```{r}
+install.packages("usethis")
+```
+
+```{r}
+usethis::use_git()2
+```
